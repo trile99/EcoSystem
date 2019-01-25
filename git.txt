@@ -1,0 +1,7 @@
+git clone "link"
+cd "ten responsive"/
+git status
+git add .
+git status
+git commit -m "datten"
+git push
